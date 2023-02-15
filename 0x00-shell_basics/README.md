@@ -1,1 +1,1 @@
-Display the contents list of your current directory in a long format
+# 0x02 Shell, I/O Redirection and filters
